@@ -22,7 +22,7 @@ HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 
 * [00_ブラウザでの確認方法](md/preview.md)
 * [01_three.jsの設定/概念](md/01_about.md)
-* [02_ジオメトリ](md/02_geometory.md)
+* [02_ジオメトリ](md/02_geometry.md)
 * [03_マテリアルと光源](md/03_material.md)
 * [04_アニメーション](md/04_animation.md)
 * [05_グループ](md/05_group.md)
