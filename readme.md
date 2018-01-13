@@ -1,8 +1,7 @@
 
 
-# Three.js
-
-HTMLで3Dコンテンツを表現するJavaScriptライブラリ
+# three.js
+2018.01.14 デジタルハリウッド
 
 ![](md/img/threejs_org.png)
 
