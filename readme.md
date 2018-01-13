@@ -27,7 +27,7 @@ HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 
 &nbsp;
 
-* [配布素材](docs/first_threejs.zip)
+* [配布素材](https://yonekura907.github.io/dh17threejs/first_threejs.zip)
 
 
 &nbsp;
