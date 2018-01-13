@@ -29,8 +29,9 @@ HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 * [06_パーティクル](md/06_particle.md)
 * [07_ヘルパー](md/07_helper.md)
 
+&nbsp;
 
-* [配布素材](first_threejs.zip)
+* [配布素材](docs/first_threejs.zip)
 
 
 &nbsp;
