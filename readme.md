@@ -4,13 +4,10 @@
 
 HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 
-[three.js](https://threejs.org/)
-
-
-
 ![](md/img/threejs_org.png)
 
-- 言語/開発環境：JavaScript
+* [公式サイト](https://threejs.org/)
+
 
 
 &nbsp;
@@ -18,7 +15,6 @@ HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 
 
 ## 授業資料
-
 
 * [00_ブラウザでの確認方法](md/preview.md)
 * [01_three.jsの設定/概念](md/01_about.md)
@@ -44,7 +40,6 @@ HTMLで3Dコンテンツを表現するJavaScriptライブラリ
 
 * [初めてのThree.js 第2版](https://www.oreilly.co.jp/books/9784873117706/)
 * [three.js によるHTML5 3D グラフィックス](http://www.cutt.co.jp/book/978-4-87783-324-4.html)
-
 
 &nbsp;
 
