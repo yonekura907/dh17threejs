@@ -79,7 +79,7 @@ body{
 
             var vertices = mesh.geometry.vertices;
             vertices.forEach(function(v){
-                v.y = v.y - (v.velocityY);
+                v.y = v.y + (v.velocityY);
                 v.x = v.x - (v.velocityX);
                 v.z = v.z - (v.velocityZ);
                 if (v.y <= -300){
