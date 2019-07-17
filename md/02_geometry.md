@@ -77,7 +77,7 @@ scene.add(sphere);
 ![](img/PlaneGeometry.png)
 
 ```
-var geometry = new THREE.PlaneGeometry(200, 200), // 幅・高さ
+var geometry = new THREE.PlaneGeometry(200, 200); // 幅・高さ
 var material = new THREE.MeshLambertMaterial({color:0x0096d6, side: THREE.DoubleSide}) // 両面を表示するように
 var plane = new THREE.Mesh(geometry,material);
 plane.rotation.x = THREE.Math.degToRad(90); // 回転

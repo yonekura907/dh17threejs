@@ -82,8 +82,8 @@ body{
                 v.y = v.y + (v.velocityY);
                 v.x = v.x - (v.velocityX);
                 v.z = v.z - (v.velocityZ);
-                if (v.y <= -300){
-                    v.y = 300;
+                if (v.y >= 300){
+                    v.y = -300;
                 }
                 if (v.x <= -20 || v.x >= 20) {
                     v.velocityX = v.velocityX * -1;
